@@ -85,6 +85,17 @@ if( isset($_POST["login"]) ){
 	</style> -->
 </head>
 <body>
+	<!-- navigation bar -->
+	<ul>
+  <li><a href="reportManager.php">Report</a></li>
+  <li><a1>|</a1></li>
+  <li><a href="viewcomplaint.php">Booking Data</a></li>
+  <li><a1>|</a1></li>
+  <li><a href="complaintForm.php">Technician Assign</a></li>
+  <li><a1>|</a1></li>
+  <li><a href="#login">Login</a></li>
+	</ul>
+<!-- navigation bar -->
 	<section class="header-in">
 	<header>
 	<img src="https://www.ump.edu.my/download/logo-ump-jawi-2021.png" alt="ump logo" width="150" height="80" align="left">
