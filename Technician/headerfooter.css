@@ -1,0 +1,41 @@
+header {
+    height: 10vh;
+    background-color: #219F94;
+    text-align: center;
+}
+
+footer {
+    height: 10vh;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    color: white;
+    font-size: 20;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    background-color: #219f94;
+}
+
+header h2 
+{
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman';
+    text-align:left;
+    background-color: #219F94;
+
+}
+
+header h3
+{
+
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman';
+    text-align: left;
+    background-color: #219F94;
+
+}
