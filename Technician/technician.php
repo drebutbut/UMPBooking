@@ -125,7 +125,8 @@
 		            <h2>FK BOOKING UMP SYSTEM</h2>
                 </div>
                 <div id="navInfo">
-                    <a href="historytech.php">History</a>
+                    <a href="accommodation.php">Accommodation</a>
+		    <a href="historytech.php">History</a>
                     <a href="profiletech.php">Profile</a>
                     <a href="logouttech.php">Logout</a>
                 </div>
