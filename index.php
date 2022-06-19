@@ -1,4 +1,4 @@
 <?php
-  header("Location: Admin/index.php");
+  header("Location: Admin/");
   exit;
 ?>
